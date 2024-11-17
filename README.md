@@ -12,3 +12,6 @@ Matplotlib is a multi-platform data visualization library built on NumPy arrays.
 
 👉4. Why Seaborn ?
 Seaborn is a library in Python predominantly used for making statistical graphics. Seaborn is a data visualization library built on top of matplotlib and closely integrated with pandas data structures in Python. Visualization is the central part of Seaborn which helps in the exploration and understanding of data.
+
+PROJECT: Pandas - Exploring Countries Economic Data
+This project involved the process of importing, exploring, and analyzing a dataset using Python and its powerful libraries like pandas and seaborn. The workflow included data cleaning, manipulation, and visualization to extract insights from the data.
