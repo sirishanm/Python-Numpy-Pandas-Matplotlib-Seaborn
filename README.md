@@ -1,4 +1,4 @@
-### Python-Numpy, Pandas, Matplotlib, Seaborn
+### Python - Numpy, Pandas, Matplotlib, Seaborn
 Basics of Numpy, Pandas , Matplotlib, Seaborn | Projects
 
 👉**1. Why Numpy?**
